@@ -4,8 +4,6 @@
 	error_reporting(E_ALL); 
 	session_start(); 
 	
-
-	var_dump($_SERVER);
 	// 2. Подключение файлов к системе 
 	define('ROOT', dirname(__FILE__)); 
 	require_once(ROOT . '/app/config/config.php'); 
