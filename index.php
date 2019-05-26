@@ -15,5 +15,5 @@
 	$router = new Router(); 
 	$router -> run(); 
 	
-	//test
+	//test2
 ?>
